@@ -1,0 +1,258 @@
+.primerFila {
+    vertical-align: top;
+    display: inline-block;
+
+}
+
+.segundaFila {
+    vertical-align: top;
+    display: inline-block;
+
+}
+
+.terceraFila {
+    vertical-align: top;
+    display: inline-block;
+
+}
+
+.cuartaFila {
+    vertical-align: top;
+    display: inline-block;
+
+}
+
+.principal {
+    display: inline-block;
+}
+
+.quintaFila {
+    vertical-align: top;
+    display: inline-block;
+
+}
+
+.heisen {
+    border-width: 20px;
+    border-color: black;
+    border-style: solid;
+    margin: 20px;
+    padding: 40px;
+    background-color: rgb(226, 107, 107);
+}
+
+.domo {
+    border-width: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    margin: 20px;
+    background-color: rgb(226, 107, 107);
+}
+
+.defun {
+    border-width: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    margin: 20px;
+    background-color: rgb(106, 207, 224);
+}
+
+.git {
+    border-width: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    margin: 20px;
+    background-color: rgb(106, 207, 224);
+}
+
+.aido {
+    border-width: 20px;
+    margin: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    background-color: rgb(106, 207, 224);
+}
+
+/* ultima fila */
+
+
+.mario {
+    border-width: 20px;
+    margin: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    background-color: rgb(106, 207, 224);
+}
+
+.link {
+    border-width: 20px;
+    margin: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    background-color: rgb(106, 207, 224);
+}
+
+.kantana {
+    border-width: 20px;
+    margin: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    background-color: rgb(106, 207, 224);
+}
+
+.jean {
+    border-width: 20px;
+    margin: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    background-color: rgb(106, 207, 224);
+}
+
+.iron {
+    border-width: 20px;
+    margin: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    background-color: rgb(226, 107, 107);
+}
+
+/* penultima fila*/
+
+
+
+.vision {
+    border-width: 20px;
+    margin: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    background-color: rgb(106, 207, 224);
+}
+
+.storm {
+    border-width: 20px;
+    margin: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    background-color: rgb(226, 107, 107);
+}
+
+.ridd {
+    border-width: 20px;
+    margin: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    background-color: rgb(226, 107, 107);
+}
+
+.okto {
+    border-width: 20px;
+    margin: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    background-color: rgb(226, 107, 107);
+}
+
+.octobi {
+    border-width: 20px;
+    margin: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    background-color: rgb(106, 207, 224);
+}
+
+/*segunda fila*/
+
+
+
+.catan {
+    border-width: 20px;
+    margin: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    background-color: rgb(226, 107, 107);
+}
+
+.adventure {
+    border-width: 20px;
+    margin: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    background-color: rgb(226, 107, 107);
+}
+
+.chello {
+    border-width: 20px;
+    margin: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    background-color: rgb(106, 207, 224);
+}
+
+.cherry {
+    border-width: 20px;
+    margin: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    background-color: rgb(106, 207, 224);
+}
+
+.coder {
+    border-width: 20px;
+    margin: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 40px;
+    background-color: rgb(106, 207, 224);
+}
+
+img {
+    width: 970px;
+    height: 900px;
+}
+
+img:hover {
+    background-color: rgb(190, 145, 119);
+    opacity: 0.2;
+}
+
+/*primera fila*/
+body {
+    margin-left: 2000px;
+    background-color: aquamarine;
+    background-image: radial-gradient(azure, rgb(146, 228, 228), rgb(155, 216, 163), rgb(241, 241, 184), azure);
+}
+
+h1 {
+    text-align: justify;
+    margin-left: 1900px;
+
+
+
+    font-size: 300px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+
+}
+
+h1:hover {
+    color: whitesmoke;
+    opacity: 0.3;
+}
